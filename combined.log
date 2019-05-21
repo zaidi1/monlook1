@@ -1,0 +1,46 @@
+{"message":{"__esModule":true,"apps":[{"firebase_":"[Circular]","isDeleted_":false,"services_":{"auth":{"[DEFAULT]":{"apiKey":"AIzaSyBmpT425g8ns1u8AnBYEhtFaM1UkXTPWEQ","authDomain":"monlook-a0a6b.firebaseapp.com","appName":"[DEFAULT]","currentUser":null}}},"name_":"[DEFAULT]","_automaticDataCollectionEnabled":false,"options_":{"apiKey":"AIzaSyBmpT425g8ns1u8AnBYEhtFaM1UkXTPWEQ","authDomain":"monlook-a0a6b.firebaseapp.com","databaseURL":"https://monlook-a0a6b.firebaseio.com","projectId":"monlook-a0a6b","storageBucket":"monlook-a0a6b.appspot.com","messagingSenderId":"985246990667","appId":"1:985246990667:web:6fc36a29df1662ae"},"INTERNAL":{}}],"SDK_VERSION":"5.9.1","INTERNAL":{"factories":{},"node":{"localStorage":{},"sessionStorage":{}}},"default":"[Circular]"},"level":"info"}
+{"message":"=======================================================","level":"info"}
+{"message":"      MONLOOK-BACKEND-SERVER started at 5000!     ","level":"info"}
+{"message":"=======================================================","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT \"isHomeServiceAvailable\", unnest(\"Photos\") as \"imageSrc\", \"UserId\" from public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"Inside controller [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"AtHome =0","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT unnest(\"AvailableTimings\") as ArrivalTime FROM public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"AtHome =0","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT unnest(\"AvailableTimings\") as ArrivalTime FROM public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT unnest(\"AvailableTimings\") as ArrivalTime FROM public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"userid = 'Rana123'","level":"info"}
+{"message":"SELECT \"isHomeServiceAvailable\", unnest(\"Photos\") as \"imageSrc\", \"UserId\" from public.profile WHERE \"UserId\" = 'Rana123'","level":"info"}
+{"message":"Inside controller [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","level":"info"}
+{"message":"userid = 'Rana123'","level":"info"}
+{"message":"AtHome =0","level":"info"}
+{"message":"userid = 'Rana123'","level":"info"}
+{"message":"SELECT unnest(\"AvailableTimings\") as ArrivalTime FROM public.profile WHERE \"UserId\" = 'Rana123'","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT \"isHomeServiceAvailable\", unnest(\"Photos\") as \"imageSrc\", \"UserId\" from public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"Inside controller [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"AtHome =0","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT unnest(\"AvailableTimings\") as ArrivalTime FROM public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT \"isHomeServiceAvailable\", unnest(\"Photos\") as \"imageSrc\", \"UserId\" from public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":"Inside controller [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"AtHome =0","level":"info"}
+{"message":"userid = '145S'","level":"info"}
+{"message":"SELECT unnest(\"AvailableTimings\") as ArrivalTime FROM public.profile WHERE \"UserId\" = '145S'","level":"info"}
+{"message":{"__esModule":true,"apps":[{"firebase_":"[Circular]","isDeleted_":false,"services_":{"auth":{"[DEFAULT]":{"apiKey":"AIzaSyBmpT425g8ns1u8AnBYEhtFaM1UkXTPWEQ","authDomain":"monlook-a0a6b.firebaseapp.com","appName":"[DEFAULT]","currentUser":null}}},"name_":"[DEFAULT]","_automaticDataCollectionEnabled":false,"options_":{"apiKey":"AIzaSyBmpT425g8ns1u8AnBYEhtFaM1UkXTPWEQ","authDomain":"monlook-a0a6b.firebaseapp.com","databaseURL":"https://monlook-a0a6b.firebaseio.com","projectId":"monlook-a0a6b","storageBucket":"monlook-a0a6b.appspot.com","messagingSenderId":"985246990667","appId":"1:985246990667:web:6fc36a29df1662ae"},"INTERNAL":{}}],"SDK_VERSION":"5.9.1","INTERNAL":{"factories":{},"node":{"localStorage":{},"sessionStorage":{}}},"default":"[Circular]"},"level":"info"}
+{"message":"=======================================================","level":"info"}
+{"message":"      MONLOOK-BACKEND-SERVER started at 5000!     ","level":"info"}
+{"message":"=======================================================","level":"info"}
+{"message":{"__esModule":true,"apps":[{"firebase_":"[Circular]","isDeleted_":false,"services_":{"auth":{"[DEFAULT]":{"apiKey":"AIzaSyBmpT425g8ns1u8AnBYEhtFaM1UkXTPWEQ","authDomain":"monlook-a0a6b.firebaseapp.com","appName":"[DEFAULT]","currentUser":null}}},"name_":"[DEFAULT]","_automaticDataCollectionEnabled":false,"options_":{"apiKey":"AIzaSyBmpT425g8ns1u8AnBYEhtFaM1UkXTPWEQ","authDomain":"monlook-a0a6b.firebaseapp.com","databaseURL":"https://monlook-a0a6b.firebaseio.com","projectId":"monlook-a0a6b","storageBucket":"monlook-a0a6b.appspot.com","messagingSenderId":"985246990667","appId":"1:985246990667:web:6fc36a29df1662ae"},"INTERNAL":{}}],"SDK_VERSION":"5.9.1","INTERNAL":{"factories":{},"node":{"localStorage":{},"sessionStorage":{}}},"default":"[Circular]"},"level":"info"}
+{"message":"=======================================================","level":"info"}
+{"message":"      MONLOOK-BACKEND-SERVER started at 5000!     ","level":"info"}
+{"message":"=======================================================","level":"info"}

@@ -1,0 +1,53 @@
+{
+  "name": "monlook",
+  "version": "1.0.0",
+  "description": "MONLOOK Backend Services",
+  "main": "server.js",
+  "engines": {
+    "node": "11.7.0",
+    "npm": "6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flow": "flow",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "monlook"
+  ],
+  "author": "Zahid Raja",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "express-async-errors": "^3.1.1",
+    "express-fileupload": "^1.1.1-alpha.3",
+    "firebase": "^5.9.1",
+    "firebase-admin": "^7.3.0",
+    "helmet": "^3.16.0",
+    "joi": "^14.3.1",
+    "joi-phone-number": "^2.1.1",
+    "jshint": "^2.10.2",
+    "mssql": "^4.3.5",
+    "mysql": "^2.17.1",
+    "nodemailer": "^5.1.1",
+    "pg": "^7.10.0",
+    "react-native-firebase": "^5.2.3",
+    "serve-index": "^1.9.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "flow-bin": "^0.91.0",
+    "nodemon": "^1.19.0"
+  }
+}
